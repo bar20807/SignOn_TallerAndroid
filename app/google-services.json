@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "616274814471",
+    "project_id": "signonproject-8a80a",
+    "storage_bucket": "signonproject-8a80a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616274814471:android:f82b9c608c88f956edaca2",
+        "android_client_info": {
+          "package_name": "com.uvg.signon_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616274814471-l16aheh61a7b12nkgtbj0q81k4026fub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uvg.signon_project",
+            "certificate_hash": "e9c28eaefc93f2d2c2b7bcd61ccf236354c86133"
+          }
+        },
+        {
+          "client_id": "616274814471-d2p7j561f19hc0vla2vde2cakg3g0q6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoUav6VqOlZuVEdAO3vEel8yKxZU0AI_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616274814471-d2p7j561f19hc0vla2vde2cakg3g0q6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
